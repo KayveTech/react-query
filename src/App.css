@@ -1,0 +1,31 @@
+
+body{
+  margin-top: 1.5rem;
+}
+
+.container{
+  display: grid;
+  place-items: center;
+}
+
+.post{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ input{
+  padding: 0.4rem 2rem;
+  margin-bottom: 0.4rem;
+}
+
+button{
+  color: #fff;
+  background-color: #0074d9;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 0.4rem 2rem;
+  
+}
